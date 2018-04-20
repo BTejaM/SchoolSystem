@@ -32,6 +32,7 @@ public class StudentsController implements Initializable {
 	private dbConnection dc;
 
 	private ObservableList<StudentData> data;
+	
 
 	@Override
 	public void initialize(URL url, ResourceBundle rb) {
