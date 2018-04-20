@@ -1,0 +1,8 @@
+.class
+.classpath
+.project
+.settings/
+
+bin/
+build.fxbuild
+hs_err_pid12468.log
